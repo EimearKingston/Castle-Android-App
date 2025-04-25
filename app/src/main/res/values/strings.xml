@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom_Recycler_list</string>
+    <string-array name="provinces">
+        <item>Select an option</item>
+        <item>Sort by year (oldest to newest)</item>
+        <item>Sort by year (newest to oldest)</item>
+        <item>Sort by province</item>
+
+    </string-array>
+</resources>

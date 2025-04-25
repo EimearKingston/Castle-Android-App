@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<castles>
+    <castle>
+        <name>Adare Castle</name>
+        <description>Castle built for strength and security on the banks of the River Maigue</description>
+        <image>adare.jpg</image>
+        <url>https://heritageireland.ie/places-to-visit/adare-castle/</url>
+        <county>Limerick</county>
+        <latitude>52.563886</latitude>
+        <longitude> -8.778573</longitude>
+        <province>Munster</province>
+        <year>1200</year>
+    </castle>
+    <castle>
+        <name>Ashford Castle</name>
+        <description>Medieval and Victorian castle that has been turned into a five-star luxury hotel</description>
+        <image>ashford.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Ashford_Castle</url>
+        <county>Galway</county>
+        <latitude>53.534511</latitude>
+        <longitude>-9.284951</longitude>
+        <province>Connacht</province>
+        <year>1228</year>
+    </castle>
+    <castle>
+        <name>Belleek Castle</name>
+        <description>Ancestral seat of the first Earl of Arran, Sir Arthur Gore, and has been expanded by the Gore family over many generations</description>
+        <image>belleek.jpg</image>
+        <url>https://belleekcastle.com/about/our-story/</url>
+        <county>Mayo</county>
+        <latitude>54.133</latitude>
+        <longitude>-9.150</longitude>
+        <province>Connacht</province>
+        <year>1825</year>
+    </castle>
+    <castle>
+        <name>Blarney Castle</name>
+        <description>Medieval stronghold built by the MacCarthy of Muskerry Dynasty and dates from 1446</description>
+        <image>blarney.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Blarney_Castle</url>
+        <county>Cork</county>
+        <latitude>51.929092</latitude>
+        <longitude>-8.570885</longitude>
+        <province>Munster</province>
+        <year>1446</year>
+    </castle>
+    <castle>
+        <name>Bunratty Castle</name>
+        <description>15th century tower house located on the mouth of the Ratty river, which is also where it gets its name</description>
+        <image>bunratty.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Bunratty_Castle</url>
+        <county>Clare</county>
+        <latitude>52.696667</latitude>
+        <longitude>-8.811667</longitude>
+        <province>Munster</province>
+        <year>1425</year>
+    </castle>
+    <castle>
+        <name>Charleville Castle</name>
+        <description>Gothic-style castle, having changed owners since its foundation and is currently run by volunteers as a tourist attraction</description>
+        <image>charleville.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Charleville_Castle</url>
+        <county>Offaly</county>
+        <latitude>53.2604</latitude>
+        <longitude>-7.5279</longitude>
+        <province>Leinster</province>
+        <year>1798</year>
+    </castle>
+    <castle>
+        <name>Dromoland Castle</name>
+        <description>Castle located near Newmarket-on-Fergus and currently operating as a five-star luxury hotel and golf course</description>
+        <image>dromoland.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Dromoland_Castle</url>
+        <county>Clare</county>
+        <latitude>52.814066</latitude>
+        <longitude>-8.964155</longitude>
+        <province>Munster</province>
+        <year>1835</year>
+    </castle>
+    <castle>
+        <name>Dublin Castle</name>
+        <description>Major Irish government complex located off Dame Street in Dublin city centre</description>
+        <image>dublin.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Dublin_Castle</url>
+        <county>Dublin</county>
+        <latitude>53.342686</latitude>
+        <longitude>-6.267118</longitude>
+        <province>Leinster</province>
+        <year>1300</year>
+    </castle>
+    <castle>
+        <name>Glenveagh Castle</name>
+        <description>Large castellated mansion located in Glenveagh National Park and was built between 1867 and 1873</description>
+        <image>glenveagh.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Glenveagh_Castle</url>
+        <county>Donegal</county>
+        <latitude>55.0333332</latitude>
+        <longitude>-7.9666628</longitude>
+        <province>Ulster</province>
+        <year>1873</year>
+
+    </castle>
+    <castle>
+        <name>King John's Castle</name>
+        <description>13th century castle located on King's Island, with the site dating back to 922</description>
+        <image>johns.jpg</image>
+        <url>https://en.wikipedia.org/wiki/King_John%27s_Castle_(Limerick)</url>
+        <county>Limerick</county>
+        <latitude>52.669722</latitude>
+        <longitude>-8.625556</longitude>
+        <province>Munster</province>
+        <year>1210</year>
+    </castle>
+    <castle>
+        <name>Kilkenny Castle</name>
+        <description>Castle built in 1260 and is a symbol of Norman occupation that was used to control a fording point</description>
+        <image>kilkenny.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Kilkenny_Castle</url>
+        <county>Kilkenny</county>
+        <latitude>52.650164066</latitude>
+        <longitude>-7.242832362</longitude>
+        <province>Leinster</province>
+        <year>1260</year>
+
+    </castle>
+    <castle>
+        <name>Malahide Castle</name>
+        <description>The estate began in 1185 and is situated close to Malahide and has over 260 acres</description>
+        <image>malahide.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Malahide_Castle</url>
+        <county>Dublin</county>
+        <latitude>53.440164906</latitude>
+        <longitude>-6.158999364</longitude>
+        <province>Leinster</province>
+        <year>1185</year>
+    </castle>
+    <castle>
+        <name>Rock of Cashel</name>
+        <description>Historical site that was the traditional seat of the king of Munster for several hundred years</description>
+        <image>rock_cashel.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Rock_of_Cashel</url>
+        <county>Tipperary</county>
+        <latitude>52.52</latitude>
+        <longitude>-7.89</longitude>
+        <province>Munster</province>
+        <year>1300</year>
+    </castle>
+    <castle>
+        <name>Trim Castle</name>
+        <description>Castle built along the south bank of the the River Boyne by Hugh de Lacy over a period of 30 years</description>
+        <image>trim.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Trim_Castle</url>
+        <county>Meath</county>
+        <latitude>53.555</latitude>
+        <longitude>-6.7897</longitude>
+        <province>Leinster</province>
+        <year>1172</year>
+    </castle>
+</castles>
