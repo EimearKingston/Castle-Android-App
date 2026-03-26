@@ -1,4 +1,4 @@
-#Eimear Kingston 121307381
+#Eimear Kingston 
 # App provides list of Castles of Ireland 
 
 # Castle: 
